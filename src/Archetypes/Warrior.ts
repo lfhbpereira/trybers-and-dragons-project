@@ -1,5 +1,5 @@
-import { EnergyType } from '../Energy';
 import Archetype from './Archetype';
+import { EnergyType } from '../Energy';
 
 export default class Warrior extends Archetype {
   private static _archetypeCounter = 0;

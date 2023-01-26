@@ -1,5 +1,5 @@
-import { EnergyType } from '../Energy';
 import Archetype from './Archetype';
+import { EnergyType } from '../Energy';
 
 export default class Mage extends Archetype {
   private static _archetypeCounter = 0;
